@@ -1,4 +1,6 @@
-# OATest: Optimization-Aware Test Generation for DL Compilers
+# OATest
+
+This repository provides the tool (i.e., OATest) and experimental data for our work: "OATest: Optimization-Aware Test Generation for DL Compilers", which has been accepted by ICSE'2026.
 
 
 
